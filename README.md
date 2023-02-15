@@ -12,7 +12,7 @@
 
 ---
 
-<div style="max-width:500px;margin:auto" >
+<div style="max-width:500px;margin:auto;text-align:center" >
   
 # 💫About Me :
 🔭 I’m currently working on : E-commerce Dashboard
