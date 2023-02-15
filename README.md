@@ -12,7 +12,7 @@
 
 ---
 
-<div maxwitdh="300px" >
+<div style="max-width:500px;margin:auto" >
   
 # 💫About Me :
 🔭 I’m currently working on : E-commerce Dashboard
