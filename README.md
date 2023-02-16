@@ -36,9 +36,10 @@
 <a href="https://www.facebook.com/nicatorium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/facebook.svg" alt="Nijat Hamid" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nijathamid/" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nijat Hamid" height="30" width="40" /></a>
 </p>
-<a href="#"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://codewhiteweb.thedev.id"></a> <a href="https://codewhiteweb.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
+<a href="https://github.com/Nijat-Hamid/Nijat-Hamid/blob/678c6c4db92ba7b8a3217ec803fcb2c3501d45a0/Nijat%20Hamid%20CV-2023.pdf"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Resume&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://github.com/Nijat-Hamid/Nijat-Hamid/blob/678c6c4db92ba7b8a3217ec803fcb2c3501d45a0/Nijat%20Hamid%20CV-2023.pdf"></a> 
+<a href="#"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
 
-### Donate to Charity, thats enough to bring smile on my face :)
+### Hire me, thats enough to bring smile on my face :)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
