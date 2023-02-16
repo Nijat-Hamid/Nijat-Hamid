@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="[https://git.io/typing-svg](https://github.com/Nijat-Hamid)"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=7692F7&width=435&height=70&lines=Hi%2C+Welcome+to+my+Github+Page!;I+am+Nijat+Hamid!;I+am+working+as+Frontend+Developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/Nijat-Hamid"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=7692F7&center=true&width=435&height=70&lines=Hi%2C+Welcome+to+my+Github+Page!;I+am+Nijat+Hamid!;I+am+working+as+Frontend+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
