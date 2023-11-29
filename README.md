@@ -15,9 +15,9 @@
 <div align="center" >
   
 # 💫About Me :
-🔭 I’m currently working on : E-commerce Dashboard
+🔭 I’m currently working on : Full-Stack NextJS Web 3 Project
   
-🌱 I’m currently learning : React / TypeScript
+🌱 I’m currently learning : Web 3 and Blockchains technologies and also React/TS/Next
 
 👯 I’m open to collaborate with anyone
 
