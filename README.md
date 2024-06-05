@@ -20,8 +20,6 @@
 
 👯 I’m open to collaborate with anyone
 
-🤔 I’m Not looking for help
-
 💬 Ask me about for any help
 
 📫 How to reach me: "nicatorium@gmail.com"
