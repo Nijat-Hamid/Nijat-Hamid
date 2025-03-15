@@ -1,5 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
-
 **Hi there** 👋🏻
 
 # I'm an extremely passionate iOS Developer
@@ -23,4 +21,3 @@
 [![Instagram](https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/nijathamid/) [![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/nijat-hamid/)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
