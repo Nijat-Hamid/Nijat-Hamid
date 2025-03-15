@@ -11,7 +11,7 @@
 
 * 💻 One line of code at a time
 
-* ♥️ Exploring new places
+* ♥️ Exploring new technologies
 
 * ✍🏻 I write blogs on iOS development in [Linkedin](https://www.linkedin.com/in/nijat-hamid/)
 
